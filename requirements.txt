@@ -1,0 +1,6 @@
+moviepy
+numpy
+imageio[ffmpeg]
+tqdm
+decorator
+requests
