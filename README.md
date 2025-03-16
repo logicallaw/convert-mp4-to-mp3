@@ -21,3 +21,6 @@ This project converts MP4 video files to MP3 audio using Python.
 4. Place your MP4 files inside the `inputs` folder.
 
 5. Run the script, and the converted MP3 files will be saved in the `outputs` folder.
+
+## 📄 Licesne
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
